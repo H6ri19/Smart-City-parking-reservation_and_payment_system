@@ -36,7 +36,7 @@ import STS from './STS.jpg';
 // Parking Type Icons
 import Car_Parking from './Car_Parking.svg';
 import Bike_Parking from './Bike_Parking.svg';
-import truck_Parking from './truck_Parking.svg';
+import Truck_Parking from './truck_Parking.svg';
 import Bus_Parking from './Bus_Parking.svg';
 import Disable_parking from './Disable_parking.svg';
 import EV_ChargingZone from './EV_ChargingZone.svg';
