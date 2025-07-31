@@ -107,7 +107,7 @@ const Parking = () => {
         </div>
       </div>
       {/* -------Related Recommendations */}
-      {/* {speciality && <Relatedpark speciality={speciality} parkID={null} />} */}
+      {/* {speciality && <relatedpark speciality={speciality} parkID={null} />} */}
     </div>
   );
 };
