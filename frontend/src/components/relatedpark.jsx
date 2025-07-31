@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { AppContext } from '../context/AppContext.jsx';
 
-const Relatedpark = ({ speciality, parkID }) => {
+const relatedpark = ({ speciality, parkID }) => {
   const { parking } = useContext(AppContext);
   const navigate = useNavigate();
   const [relatedParks, setRelatedParks] = useState([]);
