@@ -81,4 +81,4 @@ const relatedpark = ({ speciality, parkID }) => {
   );
 };
 
-export default Relatedpark;
+export default relatedpark;
