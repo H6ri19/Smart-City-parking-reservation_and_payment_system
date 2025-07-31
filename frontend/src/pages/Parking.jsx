@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { AppContext } from '../context/AppContext.jsx';
-import Relatedpark from '../components/Relatedpark';
+import relatedpark from '../components/relatedpark';
 
 const Parking = () => {
   const { speciality } = useParams();
