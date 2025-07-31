@@ -93,7 +93,7 @@ export const assets = {
 export const specialityData = [
   { speciality: 'Car Parking', image: Car_Parking },
   { speciality: 'Bike Parking', image: Bike_Parking },
-  { speciality: 'Truck Parking', image: Truck_Parking },
+  { speciality: 'Truck Parking', image: truck_Parking },
   { speciality: 'Bus Parking', image: Bus_Parking },
   { speciality: 'Accessible (Disabled) Parking', image: Disable_parking },
   { speciality: 'EV Charging Zone', image: EV_ChargingZone }
