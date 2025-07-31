@@ -3,8 +3,8 @@ import bcrypt from 'bcrypt';
 import { v2 as cloudinary } from 'cloudinary';
 import parkingModel from '../models/parkingModel.js';
 import jwt from 'jsonwebtoken';
-import bookingModel from '../models/bookingModel.js';
-import BookingModel from '../models/bookingModel.js';
+import BookingModel from '../models/BookingModel.js'; // ✅ correct
+
 import userModel from '../models/userModel.js';
 // API for adding Parking
 const addparking = async (req, res) => {
@@ -207,7 +207,7 @@ const adminDashboard = async (req, res) => {
   try {
     const parkings = await parkingModel.find({});
     const users = await userModel.find({});
-    const bookings = await bookingModel.find({});
+    const bookings = await BookingModel.find({});
 
     const dashData = {
       parkings: parkings.length,
