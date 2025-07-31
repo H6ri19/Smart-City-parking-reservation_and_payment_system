@@ -347,7 +347,7 @@ const Booked = () => {
           </div>
         )}
 
-        <Relatedpark parkID={parkID} speciality={parkInfo.speciality} />
+        <relatedpark parkID={parkID} speciality={parkInfo.speciality} />
       </div>
     )
   );
