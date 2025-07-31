@@ -116,7 +116,6 @@ const Login = () => {
           value={password}
           onChange={setPassword}
         />
-
         <button
           type="submit"
           className="bg-primary text-white w-full py-2 rounded-md text-base"

@@ -13,9 +13,7 @@ const Header = () => {
           <img className="w-28" src={assets.group_profiles} alt="Group" />
           <p>
             Find nearby parking slots, reserve in advance, and pay securely
-            <br />
-            using QR codes or number plate detection. A smarter way to park in
-            your city.
+            <br />- A smarter way to park in your city.
           </p>
         </div>
         <a
