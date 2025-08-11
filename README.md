@@ -6,13 +6,16 @@ An end-to-end full-stack solution for reserving, managing, and paying for smart 
 
 📸 Screenshots
 User Panel		 
-![Prescripto - Homepage](https://github.com/user-attachments/assets/23572615-f471-4e58-a549-59121d103c26)
+<img width="1920" height="3671" alt="Prescripto - Homepage" src="https://github.com/user-attachments/assets/5d6c7713-a680-4ce0-8ca2-840a0d07defc" />
+
 
 Admin Dashboard
-![image](https://github.com/user-attachments/assets/59e71ef2-efca-4fba-b498-7d62b4341db1)
+![1753035848448](https://github.com/user-attachments/assets/7f741567-5252-4c20-9d04-6d1b4dae48fc)
+
 
 Parking Slots Map
-![image](https://github.com/user-attachments/assets/ced43ab3-484c-4f02-a3b4-dbd23f528248)
+![1753035849029](https://github.com/user-attachments/assets/3348827d-a216-4234-8d6a-d4c58cfbd90e)
+
 
 # 🚀 Features
 🔐 User Authentication (JWT, bcrypt)
